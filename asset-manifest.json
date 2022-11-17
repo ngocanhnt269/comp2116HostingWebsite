@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ngocanhnt269/comp2116HostingWebsite/static/css/main.073c9b0a.css",
+    "main.js": "/ngocanhnt269/comp2116HostingWebsite/static/js/main.d534c545.js",
+    "static/js/787.db8eb59a.chunk.js": "/ngocanhnt269/comp2116HostingWebsite/static/js/787.db8eb59a.chunk.js",
+    "static/media/logo.svg": "/ngocanhnt269/comp2116HostingWebsite/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/ngocanhnt269/comp2116HostingWebsite/index.html",
+    "main.073c9b0a.css.map": "/ngocanhnt269/comp2116HostingWebsite/static/css/main.073c9b0a.css.map",
+    "main.d534c545.js.map": "/ngocanhnt269/comp2116HostingWebsite/static/js/main.d534c545.js.map",
+    "787.db8eb59a.chunk.js.map": "/ngocanhnt269/comp2116HostingWebsite/static/js/787.db8eb59a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.d534c545.js"
+  ]
+}
